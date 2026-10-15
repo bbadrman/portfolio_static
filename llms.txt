@@ -1,0 +1,21 @@
+# Badr BECHTIOUI – Full Stack PHP / Symfony Developer
+
+> Badr BECHTIOUI is a software engineer based in Rabat, Morocco, specialised in PHP, Symfony (5, 6, 7) and Laravel, with more than 4 years of experience designing and building web applications. Available for freelance missions.
+
+- Current role: Design & development engineer at Experion, Rabat (2022 – present)
+- Previous: Freelance web development engineer (2020 – 2022)
+- Education: Engineer in Information Systems Engineering, Higher School of Management, IT and Telecommunication (2019 – 2023)
+- Stack: PHP 8, Symfony, Laravel, Doctrine, Twig, MySQL/MariaDB, PostgreSQL, JavaScript, React, Bootstrap, Docker, Jenkins, Git
+- Contact: badr.bechtioui@gmail.com · +212 611 11 22 24 (WhatsApp)
+
+## Pages
+
+- [Home / resume](__SITE_URL__/): profile, skills, experience, services and portfolio
+- [Hotel booking platform](__SITE_URL__/portfolio-details2.html): Symfony 5, PHP 7.4, MariaDB, Docker
+- [E-commerce web application](__SITE_URL__/portfolio-details3.html): Symfony 5.4, PHP 8, Stripe, Mailjet, EasyAdmin
+- [Restaurant management web application](__SITE_URL__/portfolio-details4.html): Symfony 5.4, PHP 8, EasyAdmin
+
+## Profiles
+
+- [LinkedIn](https://www.linkedin.com/in/badr-bechtioui/)
+- [GitHub](https://github.com/bbadrman)

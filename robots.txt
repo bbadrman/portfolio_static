@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /forms/
+
+Sitemap: __SITE_URL__/sitemap.xml
